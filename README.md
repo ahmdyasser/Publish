@@ -1,9 +1,5 @@
-<div calss="markdown-class" markdown ="1">
-    <p align="center">
-       ![Publish logo](./Logo-dark.png#gh-dark-mode-only)
-       ![Publish logo](./Logo-light.png#gh-light-mode-only)
-    </p>
-</div>
+![Publish logo](./Logo-dark.png#gh-dark-mode-only)
+![Publish logo](./Logo-light.png#gh-light-mode-only)
 
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-5.5-orange.svg" />
