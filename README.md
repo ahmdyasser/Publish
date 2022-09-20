@@ -1,5 +1,9 @@
 <p align="center">
-    <img src="Logo.png" width="400" max-width="90%" alt="Publish" />
+    <picture>
+    <source srcset="Logo-dark.png" media="(prefers-color-scheme: dark)">
+    <img src="Logo-light.png" width="400" max-width="90%" alt="Publish" />
+    </picture>
+   
 </p>
 
 <p align="center">
